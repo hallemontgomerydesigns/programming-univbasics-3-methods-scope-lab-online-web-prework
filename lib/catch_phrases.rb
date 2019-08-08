@@ -14,8 +14,8 @@ def link
 end
 
 def 
-  any_phrase ("Do A Barrel Roll!")
-  puts "Indy says, '#{any_phrase}'"
+  any_phrase (name)
+  puts "Do A Barrel Roll!"
 end
 
-any_phrase("Do a Barrel Roll")
+any_phrase ("Indy")
