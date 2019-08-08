@@ -13,7 +13,7 @@ def link
   puts status
 end
 
-def donkey_kong
+def any_phrase
   phrase = "Do A Barrel Roll!"
   puts phrase
 end
