@@ -13,3 +13,7 @@ def link
   puts status
 end
 
+def donkey_kong
+  phrase = "Do A Barrel Roll!"
+  puts phrase
+end
